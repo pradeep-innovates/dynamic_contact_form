@@ -21,7 +21,7 @@ The Contact Form is designed to facilitate user communication with expert team. 
 To run this project locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/pradeep-innovates/contact-form-design.git`
-2. Navigate to the project directory: `cd contact_form_design`
+2. Navigate to the project directory: `cd dynamic_contact_form`
 3. Open the `index.html` file in a web browser.
 
 ## Screenshots
