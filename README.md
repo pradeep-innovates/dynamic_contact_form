@@ -1,4 +1,4 @@
-# Contact Form Design
+# Dynamic Contact Form Design
 
 A web design that allows users to get in touch with team through a contact form. This project provides a user-friendly interface for submitting messages and provides contact information for users to connect.
 
